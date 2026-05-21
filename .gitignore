@@ -1,2 +1,6 @@
 .env
 .vscode/
+__pycache__/
+core/camera/__pycache__/
+core/detection/__pycache__/
+yolov8n.pt
